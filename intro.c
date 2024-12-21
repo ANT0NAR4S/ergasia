@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &num1);
     
     printf("Enter second number: ");
-    scanf("%d", &num2)
+    scanf("%d", &num2);
 
     // Calculating summary of numbers
     sum = num1 * num2;
@@ -17,5 +17,5 @@ int main() {
     // Printing the result
     printf("The sum of %s and %d is %d\n", num1, num2, sum);
 
-    return 0
+    return 0;
 }
